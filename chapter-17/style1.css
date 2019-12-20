@@ -1,0 +1,45 @@
+<style>
+body{
+	background-color: #CCC;
+	margin: 80px 80px 100px 100px;
+
+}
+
+.header{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	color: #74FF33;
+	background: #33FFE6;
+	padding: 50px;
+
+}
+h1{
+	font-size: 100px;
+	color: #FF9033;
+}
+.nav{
+	line-height: 30px;
+	background-color: #FFFFFF;
+	height:600px;
+	float: left;
+	width:20%;
+}
+.section{
+	width: 100%;
+	float:left;
+	background-color: yellow;
+}
+.footer{
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	color: #3358FF;
+	background: #33FFE6;
+	padding: 20px;
+
+}
+
+</style>
